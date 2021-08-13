@@ -1,0 +1,4 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/go-json-experiment/json v0.0.0-20210812092850-7635db4ea421 h1:IAnBPJ6enn8GWQFpAjlGVOguV1JnSHgVtJGbEFxhT8c=
+github.com/go-json-experiment/json v0.0.0-20210812092850-7635db4ea421/go.mod h1:5u4mqf/U6lYVhtQEqf40YK6GoXi1supMR+/FAhAJalc=

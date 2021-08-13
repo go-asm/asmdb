@@ -8,3 +8,5 @@ docs        linguist-documentation
 *.pb.go     linguist-generated
 *gen.go     linguist-generated
 *_string.go linguist-generated
+
+internal/genasmdb/asmdb/*.js linguist-vendored
